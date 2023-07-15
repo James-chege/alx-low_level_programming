@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 /**
-* main - Printing alphabets from z to a using putchar function
-* Retrun: Always 0 (Success)
+* main - Printing alphabets
+* Return: Always 0 (Success)
 */
 
-int main(void){
+int main(void)
+{
 	char n;
 
 	for (n = 'z'; n >= 'a'; n--)
