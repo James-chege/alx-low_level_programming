@@ -4,19 +4,19 @@
  * print_line - Drawing a straight line
  * @n: The number of line to be drawn
  * Return: Always 0
- */#
+ */
 
 void print_line(int n)
 {
-	int a;
-	
-	if (a <= 0);
+	int x;
+
+	if (n <= 0)
 	{
 		_putchar('\n');
 	}
 	else
 	{
-		for (a = 0; a < n; a++)
+		for (x = 0; x < n; x++)
 		{
 			_putchar(95);
 		}
