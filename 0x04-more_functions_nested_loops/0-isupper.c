@@ -7,12 +7,9 @@
 
 int _isupper(int c)
 {
-	int c = 'C', 'c';
-
-	c = 'C';
-	_putchar('1');
-	c = 'a';
-	_putchar('0');
+	if (c >= 65 && <= 90)
+	{
+		return (1);
+	}
 	return (0);
-
 }
