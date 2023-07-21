@@ -2,6 +2,7 @@
 
 /**
  * _isdigit - Checking for a digit
+ *@c: The digit being checked
  * Return: 1 if c is a dogot and 0 if otherwise
  */
 
