@@ -2,13 +2,13 @@
 
 /**
  * string_toupper - Changing letters of a string from lowerecase to uppercase
+ *@n: Pointer
  * Return: n
  */
-char *string_toupper(char *)
+char *string_toupper(char *n)
 {
 	int i;
-	char *n
-	
+
 	i = 0;
 	while (n[i] != '\0')
 	{
