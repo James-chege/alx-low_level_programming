@@ -1,0 +1,5 @@
+alias gip = 'git push'
+alias gis = 'git status'
+alias gil = 'git pull'alias gip = 'git push'
+alias gis = 'git status'
+alias gil = 'git pull'
